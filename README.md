@@ -1,6 +1,7 @@
-# GitHub Pages PR Preview POC
+# GitHub Pages PR Preview
 
 This repository demonstrates a CI/CD workflow that automatically builds and deploys a preview for pull requests using **GitHub Pages** and **GitHub Actions**.
+It is Building and Creating a Preview for a Node app with a webpack.
 
 ## 📌 Repository
 [GitHub Repository](https://github.com/rebumatadele/poc-github-pages-v3)
